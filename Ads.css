@@ -1,0 +1,64 @@
+.adss{
+    
+    width: 100%;
+    height: 280px;
+    background-color: aquamarine;
+   
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+    
+    
+}
+.adss1{
+    display: flex;
+    
+    position: relative;
+    align-items: center;
+    
+    width: 100%;
+    height:280px ;
+    background-color: bisque;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.style{
+    height: 280px;
+    /* width: 6339px; */
+    width: 100%;
+    
+    /* transition-duration: 0.2s; */
+    
+    
+    /* position: relative; */
+    
+    
+}
+.btul{
+    position: absolute;
+    justify-content: center;
+    left: 0;
+    width: 5%;
+    height: 80px;
+    
+    
+}
+.btur {
+    position: absolute;
+    justify-content: center;
+    
+    right: 0;
+    width: 5%;
+    height: 80px;
+    
+   
+}
+    
+    
